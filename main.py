@@ -1,4 +1,4 @@
-from pizzapi.pizzapy import Customer, Order, StoreLocator, CreditCard
+from pizzapy import Customer, Order, StoreLocator, CreditCard
 
 
 # Functions
